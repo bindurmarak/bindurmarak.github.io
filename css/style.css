@@ -30,7 +30,7 @@
     margin: 0;
 }
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: rgb(81, 250, 123);
+    background-color: orange;
 }
 .dropdown-content{
     display: none;
@@ -69,15 +69,17 @@
     height: 200px;
 }
 .box h2{
-    color:blue;
+    background-color: orange;
+    color:rgb(0, 0, 0);
+    text-align: center;
 }
 .box p{
     text-align: justify;
 }
 .box a{
     text-decoration: none;
-    color: white;
-    background-color: blue;
+    color: black;
+    background-color: orange;
     text-align: center;
     margin: 0 auto;
 
