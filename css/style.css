@@ -5,7 +5,7 @@
 
 .navbar{
     overflow: hidden;
-    background-color: rgb(236, 17, 236);
+    background-color: rgb(208, 249, 252);
 }
 .navbar a{
     float: right;
@@ -30,7 +30,7 @@
     margin: 0;
 }
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: rgb(255, 208, 0);
+    background-color: rgb(81, 250, 123);
 }
 .dropdown-content{
     display: none;
